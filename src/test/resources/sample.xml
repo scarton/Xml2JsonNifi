@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <STRUCTUREDDOCUMENT>
+    <URL>../tmp/a11-press-kit1.pdf</URL>
+    <SYSTEM name="HASH" value="f0c00cf4ea586fe55cba47bd78b1a13a"/>
+    <META name="Number Of Pages" value="106"/>
+    <META name="Type" value="PDF"/>
+    <SYSTEM name="WordFinder Version" value="3"/>
+    <META name="Author" value="                                                            "/>
+    <META name="CreationDate" value="Tue Apr 24 11:54:20 2001"/>
+    <META name="Producer" value="Pdf-It version 4.020"/>
+    <META name="title/document_title" value="                                                            "/>
+    <META name="Subject" value="                                                            "/>
+    <META name="Keywords" value="                                                            "/>
+    <SYSTEM name="Secure PDF" value="No"/>
+    <SYSTEM name="DeterminedLanguage" value="english"/>
+    <SYSTEM name="LanguageGuessed" value="yes"/>
+    <META name="SpaceMissions-People" value="People" id="bfc33274-197f-4873-a1f4-f421c8ab64aa" score="0.93"/>
+    <META name="SpaceMissions-People" value="Michael Collins" id="edcdffe2-6e8a-41a6-ad11-4a74da3e86ff" score="0.66"/>
+    <META name="SpaceMissions-People" value="Astronauts" id="f4d53c10-c735-4c86-94f2-dc54c99b3742" score="0.99"/>
+    <META name="SpaceMissions-People" value="NASA" id="51a4417a-423c-482c-a909-991efeeb0c55" score="0.96"/>
+    <META name="SpaceMissions-Vehicles" value="Vehicles" id="628286df-b32b-47cd-a8de-f310d17ad43d" score="1.00"/>
+    <META name="SpaceMissions-Vehicles" value="Spacecrafts" id="2a384ab9-60b4-4aa7-ba12-a066ee899aeb" score="1.00"/>
+    <META name="SpaceMissions-Vehicles" value="Apollo Command/Service Module" id="45a88948-50ac-41ec-a181-a7b621b48db4" score="1.00"/>
+    <META name="SpaceMissions-Vehicles" value="Launch vehicles" id="a0a72711-6224-41c7-ba8f-5604b13f4da3" score="1.00"/>
+    <META name="SpaceMissions-Vehicles" value="Apollo Lunar Module" id="b7eda34c-57e6-4897-ad24-57197e9de6c6" score="0.87"/>
+    <META name="SpaceMissions-Vehicles" value="Saturn V" id="d0bda40c-7cf0-43a0-94b9-34753af7801e" score="0.99"/>
+    <META name="SpaceMissions-Programmes &amp; Missions" value="Apollo 9" id="f548fd68-7240-4c17-a026-a70a1b2d8d06" score="0.70"/>
+    <META name="SpaceMissions-Programmes &amp; Missions" value="Gemini 8" id="c7e635bc-c731-4494-ab1d-ba5dbcc85a86" score="0.60"/>
+    <META name="SpaceMissions-Programmes &amp; Missions" value="Project Gemini" id="c919b825-918c-415d-b6cd-371ead3e322b" score="0.59"/>
+    <META name="SpaceMissions-Programmes &amp; Missions" value="Apollo 11" id="493cb4f5-102f-4492-a766-449ff1eba891" score="0.96"/>
+    <META name="SpaceMissions-Programmes &amp; Missions" value="Apollo space program" id="66e9490b-fc45-488b-bba6-720c88b4657b" score="0.89"/>
+    <META name="SpaceMissions-Programmes &amp; Missions" value="Apollo 8" id="8b2ffc68-a44b-4fe8-95d2-fef03a589e6a" score="1.00"/>
+    <META name="SpaceMissions-Programmes &amp; Missions" value="Gemini 12" id="560deabd-be8a-4fb7-aba4-4b2264dd9865" score="0.60"/>
+    <META name="SpaceMissions-Places" value="Places" id="c7c21bc6-8acc-4228-a7b3-ddb5f2ac1e59" score="1.00"/>
+  </STRUCTUREDDOCUMENT>
+</response>
